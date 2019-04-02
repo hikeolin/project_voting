@@ -1,2 +1,2 @@
-# project_voting
+# VoteIT
 Electronic voting app
